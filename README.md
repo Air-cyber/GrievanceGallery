@@ -20,4 +20,17 @@ Data Collection: Gather data on common issues to inform website improvements and
   
   Analytics and Reporting: Incorporate tools for data analysis and reporting to identify trends and areas for improvement.
 
-# Features and Pic
+# Features 
+
+# Frontend
+
+![Screenshot (560)](https://github.com/user-attachments/assets/62f6a836-2c90-43d2-a717-207cc092e72d)
+
+![Screenshot (566)](https://github.com/user-attachments/assets/04ccb122-6ed8-4664-83c1-91df047638fa)
+
+![Screenshot (567)](https://github.com/user-attachments/assets/9c2c992e-baa5-49a8-8d4a-3935244ec648)
+
+
+
+
+
