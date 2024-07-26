@@ -34,7 +34,7 @@ Data Collection: Gather data on common issues to inform website improvements and
 
 ![Screenshot (561)](https://github.com/user-attachments/assets/89cc2b01-d56a-436b-873d-b12d984d4194)
 
-![Screenshot (565)](https://github.com/user-attachments/assets/1bfbfe48-03ad-48a8-91cd-63dee5e4e4b9)
+
 
 
 
